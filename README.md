@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently studying and working with hands on full stack projects<br>i am an IT undergradutae of the department of science university of kelnaiya
+I'm an IT undergraduate(MIT) at the Faculty of Science, University of Kelaniya, passionate about full-stack development and building real-world software solutions.<br><br>💡 Currently working on hands-on projects using React, Next.js, Node.js, Express, and MySQL/MongoDB<br><br>📚 Exploring TypeScript, Programming Concepts, and RESTful API design<br><br>🔧 Focused on building scalable, responsive, and efficient web applications<br><br>🧠 Strong interest in UI/UX design, database optimization, and clean architecture<br><br>🚀 Eager to collaborate, learn, and grow through innovative tech projects<br><br>Let’s connect and create something impactful together!
 
 
 # 💻 Tech Stack:
